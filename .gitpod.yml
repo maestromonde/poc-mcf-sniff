@@ -1,5 +1,0 @@
-image: gitpod/workspace-full
-
-tasks:
-  - init: yarn
-    command: yarn start

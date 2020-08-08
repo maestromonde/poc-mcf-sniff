@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "outDir": "dist/",
+    "checkJs": false,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "sourceMap": true,
+    "noUnusedLocals": false,
+    "module": "CommonJS",
+    "target": "ES2015",
+    "allowJs": true,
+    "listFiles": false,
+    "downlevelIteration": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "lib": [
+      "esnext",
+      "dom"
+    ]
+  }
+}
