@@ -1,7 +1,0 @@
-{
-  "watch": [
-    "app"
-  ],
-  "ext": "ts,yaml",
-  "exec": "ts-node ./app/index.ts"
-}
